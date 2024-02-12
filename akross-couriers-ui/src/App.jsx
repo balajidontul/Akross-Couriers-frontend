@@ -1,5 +1,6 @@
 import { Suspense, lazy } from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 import AppLayout from "./layout/AppLayout";
 
 // Lazy load components
